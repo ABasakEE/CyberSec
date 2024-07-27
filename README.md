@@ -1,0 +1,1 @@
+In this repo, I have added the relevant files used for CTF challenges for weeks 1 and 2. The folders have been structured according to the assignments provided and the parts 1 and 2 of the project have been included in the folders named Sudoku and Brainf respectively.
